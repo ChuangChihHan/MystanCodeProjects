@@ -8,7 +8,7 @@ Watch my [DEMO_VIDEOS](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyG
   * [prime_checker](https://github.com/ChuangChihHan/MystanCodeProjects/blob/main/project/basics/prime_checker.py)
 * [Hangman_Game](https://github.com/ChuangChihHan/MystanCodeProjects/blob/main/project/hangman/hangman.py)
   * python semantics & syntax
-* [Photoshop]
+* [Photoshop](https://github.com/ChuangChihHan/MystanCodeProjects/tree/main/project/photoshop)
   * image processing
 * [Breakout Game](https://github.com/ChuangChihHan/MystanCodeProjects/tree/main/project/breakout_game)
   * animation & game designing
