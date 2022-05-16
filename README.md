@@ -8,6 +8,7 @@ Watch my [DEMO_VIDEOS](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyG
   * python while & for loops
   * [prime_checker](https://github.com/ChuangChihHan/MystanCodeProjects/blob/main/project/basics/prime_checker.py)
   * [rocket](https://github.com/ChuangChihHan/MystanCodeProjects/blob/main/project/basics/rocket.py)
+  * [factorial](https://github.com/ChuangChihHan/MystanCodeProjects/blob/main/project/basics/factorial.py)
 * [Hangman_Game](https://github.com/ChuangChihHan/MystanCodeProjects/blob/main/project/hangman/hangman.py)
   * python semantics & syntax
 * [Photoshop](https://github.com/ChuangChihHan/MystanCodeProjects/tree/main/project/photoshop)
