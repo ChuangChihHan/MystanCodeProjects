@@ -7,7 +7,7 @@ Watch my [DEMO_VIDEOS](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyG
 * [Basics]
   * [prime_checker](https://github.com/ChuangChihHan/MystanCodeProjects/blob/main/project/basics/prime_checker.py)
   * python while & for loops
-* [Hangman_Game]
+* [Hangman_Game](https://github.com/ChuangChihHan/MystanCodeProjects/blob/main/project/hangman/hangman.py)
   * python semantics & syntax
 * [Photoshop]
   * image processing
