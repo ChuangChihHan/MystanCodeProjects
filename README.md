@@ -16,4 +16,4 @@ Watch my [DEMO_VIDEOS](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyG
 * [Breakout Game](https://github.com/ChuangChihHan/MystanCodeProjects/tree/main/project/breakout_game)
   * animation & game designing
 * [Anagram](https://github.com/ChuangChihHan/MystanCodeProjects/blob/main/project/anagram/anagram.py)
-  * recurive functions
+  * recursive functions
